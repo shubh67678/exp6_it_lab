@@ -1,0 +1,15 @@
+.login,
+.image {
+	min-height: 100vh;
+}
+.bg-image {
+	background-size: cover;
+	background-position: center center;
+}
+.bg-login {
+	background-color: #f4f1ed;
+}
+
+.bg-login-part {
+	background-color: #f0f0f0;
+}
